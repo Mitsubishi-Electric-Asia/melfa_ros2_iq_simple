@@ -16,7 +16,7 @@ mkdir -p ~/melfa_ws/src
 cd ~/melfa_ws/src
 ```
 
-### 2. Download [MELFA ROS2 iQ Platform](https://github.com/Mitsubishi-Electric-Asia/melfa_ros2_iq/releases) from GitHub.
+### 2. Download [MELFA ROS2 iQ Platform](https://github.com/Mitsubishi-Electric-Asia/melfa_ros2_iq_simple/releases) from GitHub.
 
 Cloning is not recommended as the latest version of MELFA ROS2 HMI may have compatibility issues with the latest version of MELFA ROS2 Driver.
 
