@@ -22,10 +22,10 @@ Cloning is not recommended as the latest version of MELFA ROS2 iQ Platform may h
 
 ### 3. Download [MELFA ROS2 Driver](https://github.com/Mitsubishi-Electric-Asia/melfa_ros2_driver/releases) from GitHub.
 
-Cloning is not recommended as the latest version of MELFA ROS2 Driver may have compatibility issues with the latest version of MELFA ROS2 HMI.
+Cloning is not recommended as the latest version of MELFA ROS2 Driver may have compatibility issues with the latest version of MELFA ROS2 iQ Platform.
 
 ### 4. Extract MELFA ROS2 Driver to melfa_ws/src.
-Ensure that melfa_ros2_driver-1.0.5 and this version of melfa_ros2_hmi are in melfa_ws/src.
+Ensure that melfa_ros2_driver and this version of melfa_ros2_iq_simple are in melfa_ws/src.
 
 Please refer to [MELFA ROS2 Driver Setup](https://github.com/Mitsubishi-Electric-Asia/melfa_ros2_driver/blob/humble/doc/melfa_ros2_driver.md).
 
